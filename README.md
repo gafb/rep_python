@@ -1,2 +1,2 @@
 # rep_python
-Application of python
+Python applications
