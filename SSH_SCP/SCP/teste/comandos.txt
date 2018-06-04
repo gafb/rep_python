@@ -1,0 +1,3 @@
+python copy_file.py config.ini get  /home/aluno4/gb.txt ./teste
+python copy_file.py config.ini put gb.txt /home/aluno4
+
