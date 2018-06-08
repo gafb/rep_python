@@ -1,0 +1,11 @@
+{
+"tables_files": ["Chip-seq_Template.csv", "alo.txt"],
+"columns_names1": ["cell_type_category", "cell_type" , "cell_type_track_name",
+"cell_type_short", "assay_category", "assay", "assay_track_name", "assay_short", "donor",
+"time_point", "view", "track_name" , "track_type", "track_density", "provider_institution",
+"source_server", "source_path_to_file", "server", "path_to_file", "new_file_name"],
+"columns_names2":["alores", "falores"
+
+]
+
+}
